@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Avoid pushing private data
+.audio_files/*
+.transcriptions/*.txt
+.whisper_env/*
