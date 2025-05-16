@@ -1,0 +1,7 @@
+ipykernel
+openai-whisper
+torch
+jupyter
+torch 
+torchvision 
+torchaudio 
