@@ -9,3 +9,6 @@
 ```
 
 - Use the notebook with the specified audio files.
+
+
+For details on whisper usage [click here](https://pypi.org/project/openai-whisper/)
